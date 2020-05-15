@@ -138,7 +138,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="agile_wthree_inner_grids">
 				
 				<div class="col-md-3 w3_agile_team_grid_info">
-					<img src="" alt=" " class="img-responsive" />
+					<img src="images/blediani.jpg" alt=" " class="img-responsive" />
 					<div class="team_agile _icons">
 						<h3>Bledian Potera</h3>
 						<p>Administrator</p>
@@ -149,7 +149,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 				<div class="col-md-3 w3_agile_team_grid_info">
-					<img src="" alt=" " class="img-responsive" />
+					<img src="images/erjoni.jpg" alt=" " class="img-responsive" />
 					<div class="team_agile _icons">
 						<h3>Erjon Mehmeti</h3>
 						<p>Tour Operator</p>
@@ -160,7 +160,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 				<div class="col-md-3 w3_agile_team_grid_info">
-					<img src="" alt=" " class="img-responsive" />
+					<img src="images/omeri.jpg" alt=" " class="img-responsive" />
 					<div class="team_agile _icons">
 						<h3>Omer Mehmeti</h3>
 						<p>Director</p>
