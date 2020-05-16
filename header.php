@@ -45,6 +45,7 @@
 									<li><a href="" data-hover="About">About</a></li>
 									<li><a href="" data-hover="Gallery">Gallery</a></li>
 									<li><a href="" data-hover="Contact">Contact</a></li>
+									<li><a href="loja.php" data-hover="Game">Game</a></li>
 								</ul>
 							</nav>
 						</div>
