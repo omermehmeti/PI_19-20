@@ -96,7 +96,8 @@ if($_SESSION['logged_in'])
 					<li><a href="index.html">Home</a></li>
 					<li><a href="about.html">About</a></li>
 					<li><a href="gallery.html">Gallery</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="form.php">Contact</a></li>
+					<li><a href="loja.php">Game</a><li>
 				</ul>
 			</div>
 			<div class="col-md-3 w3l-social">
