@@ -5,6 +5,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/png" href="https://i.pinimg.com/originals/9e/8e/ab/9e8eab9ddabbefcb22a6365a9ff71311.png" sizes="16x16" />
         
+        <!-- //Meta Tags -->
+	    <!-- Style-sheets -->
+	    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	    <link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+	    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	    <link rel="stylesheet" href="css/lightbox.css">
+	    <!-- // Style-sheets -->
+	    <!-- Online-fonts -->
+	    <link href="//fonts.googleapis.com/css?family=Montserrat:100,200,400,500,600" rel="stylesheet">
+	    <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+	    <!--// Online-fonts -->
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         
