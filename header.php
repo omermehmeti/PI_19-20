@@ -42,9 +42,9 @@
 							<nav class="cl-effect-15" id="cl-effect-15">
 								<ul>
 									<li><a href="" data-hover="Home">Home</a></li>
-									<li><a href="" data-hover="About">About</a></li>
-									<li><a href="" data-hover="Gallery">Gallery</a></li>
-									<li><a href="" data-hover="Contact">Contact</a></li>
+									<li><a href="about.php" data-hover="About">About</a></li>
+									<li><a href="gallery.php" data-hover="Gallery">Gallery</a></li>
+									<li><a href="form.php" data-hover="Contact">Contact</a></li>
 									<li><a href="loja.php" data-hover="Game">Game</a></li>
 								</ul>
 							</nav>
