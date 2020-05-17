@@ -26,7 +26,21 @@
 			<div class="col-md-3 w3l-social">
 				<ul class="top-right-info-w3ls">
                                     <li><a href="https://www.facebook.com/traveleragjency"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                  
+                                     <?php
+					$href = "";
+					$iclass = "";
+					if(isset($_SESSION['email']))
+					{
+						$href = "profile.php";
+						$iclass="fa fa-user";
+					}
+					else
+					{
+						$href="regjistrohu.php";
+						$iclass="fa fa-sign-in";
+					}
+					echo "<li><a href='".$href."'><i class='".$iclass."' aria-hidden='true'></i></a></li>";
+				      ?>
 				</ul>
 			</div>
 
