@@ -16,7 +16,7 @@
 			</div>
 			<div class="col-md-6 botttom-nav-agileits">
 				<ul class="nav-w3ls">
-					<li><a href="#home" class="scroll">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="form.php">Contact</a></li>
