@@ -20,7 +20,7 @@
 					<li><a href="about.php">About</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="form.php">Contact</a></li>
-					<li><a href="">Game</a></li>
+					<li><a href="loja.php">Game</a></li>
 				</ul>
 			</div>
 			<div class="col-md-3 w3l-social">
