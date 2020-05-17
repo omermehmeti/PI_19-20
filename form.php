@@ -93,9 +93,9 @@ if(isset($_SESSION['logged_in']))
 			</div>
 			<div class="col-md-6 botttom-nav-agileits">
 				<ul class="nav-w3ls">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="gallery.html">Gallery</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="form.php">Contact</a></li>
 					<li><a href="loja.php">Game</a><li>
 				</ul>
