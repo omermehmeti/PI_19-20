@@ -1,16 +1,4 @@
-<link href="dizajn/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="dizajn/font-awesome.css" rel="stylesheet" type="text/css" media="all">
-	
-	<link href="dizajn/style.css" rel="stylesheet" type="text/css" media="all" />
-	<!-- // Style-sheets -->
-	<!-- Online-fonts -->
-	<link href="//fonts.googleapis.com/css?family=Montserrat:100,200,400,500,600" rel="stylesheet">
-	<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-	<link rel="stylesheet" href="dizajn/team.css" type="text/css" media="all" />
-
-
-
-
+<!--Header-->
 <div class="header inn-banner" id="home">
 		<!--top-bar-w3-agile-->
 		<div class="top-bar-w3-agile">
@@ -21,7 +9,21 @@
 					</div>
 					<ul class="top-right-info-w3ls">
 						<li><a href="https://www.facebook.com/traveleragjency" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                           
+                           				<?php
+                                				$href = "";
+                                				$iclass = "";
+                                				if(isset($_SESSION['email']))
+                                				{
+                                    					$href = "profile.php";
+                                    					$iclass="fa fa-user";
+                                				}
+                                				else
+                                				{
+                                    					$href="regjistrohu.php";
+                                    					$iclass="fa fa-sign-in";
+                                				}
+                                				echo "<li><a href='".$href."'><i class='".$iclass."' aria-hidden='true'></i></a></li>";
+                            				?>
 					</ul>
 					<div class="clearfix"></div>
 				</div>
