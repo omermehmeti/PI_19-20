@@ -65,7 +65,7 @@
                 <br>
                 <p id="prova"></p>
                 <Br>
-                <a href="Loja.html">Lojaa</a>
+                
                 
                 <script type="text/javascript" src="js/Loja.js"></script>
                 
