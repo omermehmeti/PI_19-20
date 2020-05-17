@@ -481,7 +481,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="#home" class="scroll">Home</a></li>
 					<li><a href="about.php">About</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="form.php">Contact</a></li>
+					<li><a href="loja.php">Game</a></li>
 				</ul>
 			</div>
 			<div class="col-md-3 w3l-social">
