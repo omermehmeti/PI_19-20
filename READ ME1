@@ -1,0 +1,23 @@
+Per ta shikuare projektin sigurohuni qe ta keni te instaluar xampp
+
+----dhe ne 
+
+http://localhost/phpmyadmin/server_sql.php
+
+
+											shkruani kodin ne vijim
+
+
+
+
+CREATE DATABASE dbpi;
+
+
+
+
+CREATE TABLE `dbpi`.`users` ( `id` INT(11) NOT NULL AUTO_INCREMENT, `first_name` VARCHAR(255) NOT NULL , `last_name` VARCHAR(255) NOT NULL , `email` VARCHAR(255) NOT NULL , `password` VARCHAR(255) NOT NULL , `hash` VARCHAR(255) NOT NULL , `active` TINYINT(4) NOT NULL DEFAULT '0',PRIMARY KEY (id) ) ENGINE = InnoDB;
+
+CREATE TABLE `dbpi`.`cities`(city VARCHAR(50) NOT NULL,PRIMARY KEY (city)) ENGINE =InnoDB;
+
+
+CREATE TABLE `dbpi`.`reservations` ( `id` INT(11) NOT NULL AUTO_INCREMENT, `Name` VARCHAR(255) NOT NULL , `Email` VARCHAR(255) NOT NULL , `CheckIn` VARCHAR(255) NOT NULL , `CheckOut` VARCHAR(255) NOT NULL , `Adults` SMALLINT(6) NOT NULL , `Hotel` VARCHAR(30) NOT NULL , `Price` VARCHAR(10) NOT NULL, PRIMARY KEY (id) ) ENGINE = InnoDB;
