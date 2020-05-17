@@ -1,5 +1,7 @@
 Per ta shikuare projektin sigurohuni qe ta keni te instaluar xampp
 
+shikoni konfigurimin ne sqlconn.php file editone sipas parametrave ....
+
 ----dhe ne 
 
 http://localhost/phpmyadmin/server_sql.php
