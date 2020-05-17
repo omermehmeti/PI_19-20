@@ -21,3 +21,6 @@ CREATE TABLE `dbpi`.`cities`(city VARCHAR(50) NOT NULL,PRIMARY KEY (city)) ENGIN
 
 
 CREATE TABLE `dbpi`.`reservations` ( `id` INT(11) NOT NULL AUTO_INCREMENT, `Name` VARCHAR(255) NOT NULL , `Email` VARCHAR(255) NOT NULL , `CheckIn` VARCHAR(255) NOT NULL , `CheckOut` VARCHAR(255) NOT NULL , `Adults` SMALLINT(6) NOT NULL , `Hotel` VARCHAR(30) NOT NULL , `Price` VARCHAR(10) NOT NULL, PRIMARY KEY (id) ) ENGINE = InnoDB;
+
+
+INSERT INTO `cities` (`city`) VALUES ('Prishtine'), ('Prizren'), ('Shkup');
