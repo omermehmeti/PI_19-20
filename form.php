@@ -89,7 +89,7 @@ if(isset($_SESSION['logged_in']))
 	<div class="w3l_footer_agileinfo">
 		<div class="container">
 			<div class="col-md-3 mailadd-w3ls">
-				<p><span class="fa fa-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">info@example.com</a></p>
+				<p><span class="fa fa-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">traveleragency20@gmail.com</a></p>
 			</div>
 			<div class="col-md-6 botttom-nav-agileits">
 				<ul class="nav-w3ls">
